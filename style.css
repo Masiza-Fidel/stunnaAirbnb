@@ -160,6 +160,7 @@ header .search-bar-container label:hover{
 
 }
 
+
 .login-form-container.active{
     top:0;
 }
@@ -190,13 +191,16 @@ header .search-bar-container label:hover{
     text-transform: none;
 }
 
+
 .login-form-container form .box:focus{
     border-color: var(--orange);
 }
 
+
 .login-form-container form #remember{
     margin: 2rem 0;
 }
+
 
 .login-form-container form label{
     font-size: 1.5rem;
@@ -207,15 +211,18 @@ header .search-bar-container label:hover{
     width: 100%;
 }
 
+
 .login-form-container form p{
     padding:.5rem 0;
     font-size: 1.5rem;
     color: #666;
 }
 
+
 .login-form-container form p a{
     color:var(--orange);
 }
+
 
 .login-form-container form p a:hover{
     color: #333;
@@ -230,6 +237,7 @@ header .search-bar-container label:hover{
     color: #fff;
     cursor: pointer;
 }
+
 
 #menu-bar{
     color: #fff;
